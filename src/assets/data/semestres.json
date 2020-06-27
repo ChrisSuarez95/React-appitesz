@@ -1,0 +1,40 @@
+{
+  "semestres": [
+    {
+      "idSemestre": "1",
+      "name": "PRIMERO"
+    },
+    {
+      "idSemestre": "2",
+      "name": "SEGUNDO"
+    },
+    {
+      "idSemestre": "3",
+      "name": "TERCERO"
+    },
+    {
+      "idSemestre": "4",
+      "name": "CUARTO"
+    },
+    {
+      "idSemestre": "5",
+      "name": "QUINTO"
+    },
+    {
+      "idSemestre": "6",
+      "name": "SEXTO"
+    },
+    {
+      "idSemestre": "7",
+      "name": "SEPTIMO"
+    },
+    {
+      "idSemestre": "8",
+      "name": "OCTAVO"
+    },
+    {
+      "idSemestre": "9",
+      "name": "RESIDENCIAS"
+    }
+  ]
+}

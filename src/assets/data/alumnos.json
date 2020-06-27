@@ -1,0 +1,40 @@
+{
+  "alumnos": [
+    {
+      "nocontrol": "S13010001",
+      "name": "GUADALUPE NUCI"
+    },
+    {
+      "nocontrol": "S13010002",
+      "name": "ROBERTO MERCADO"
+    },
+    {
+      "nocontrol": "S13010003",
+      "name": "AMAIRANY MUÑOZ"
+    },
+    {
+      "nocontrol": "S13010004",
+      "name": "ANTONIO MELCHOR"
+    },
+    {
+      "nocontrol": "S13010005",
+      "name": "JOSE ANGEL RODRIGUEZ"
+    },
+    {
+      "nocontrol": "S13010006",
+      "name": "JUAN OROPEZA SANCHEZ"
+    },
+    {
+      "nocontrol": "S13010007",
+      "name": "CHRISTIAN CARRANZA"
+    },
+    {
+      "nocontrol": "S13010008",
+      "name": "DANIEL GUZMAN"
+    },
+    {
+      "nocontrol": "S13010009",
+      "name": "JOSE TORRES"
+    }
+  ]
+}

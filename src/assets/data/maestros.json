@@ -1,0 +1,40 @@
+{
+  "maestros": [
+    {
+      "nodocente": "doc001",
+      "name": "ALICIA HERNANDEZ"
+    },
+    {
+      "nodocente": "doc002",
+      "name": "ANA CELIA SEGUNDO"
+    },
+    {
+      "nodocente": "doc003",
+      "name": "BRUNO BARBOZA"
+    },
+    {
+      "nodocente": "doc004",
+      "name": "CLAUDIA BAEZA"
+    },
+    {
+      "nododente": "doc005",
+      "name": "RICARDO GARCIA CRUZ"
+    },
+    {
+      "nodocente": "doc006",
+      "name": "ROBERTO SUAREZ"
+    },
+    {
+      "nodocente": "doc007",
+      "name": "JORGE EDGAR MAGDALENO"
+    },
+    {
+      "nodocente": "doc008",
+      "name": "PACO RODRIGUEZ"
+    },
+    {
+      "nodocente": "doc009",
+      "name": "OZIEL"
+    }
+  ]
+}
